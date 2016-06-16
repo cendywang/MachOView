@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "48439af1-32ae-43fb-a04c-585ec6ffdf7c++505",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "48439af1-32ae-43fb-a04c-585ec6ffdf7c++505" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "48439af1-32ae-43fb-a04c-585ec6ffdf7c++505" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "4DF9FC42-7F59-417B-A3EA-8B518FB4517E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "48439af1-32ae-43fb-a04c-585ec6ffdf7c++505" : "machoview-code\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "machoview",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "machoview.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/svn.code.sf.net\/p\/machoview\/code",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "48439af1-32ae-43fb-a04c-585ec6ffdf7c++505"
+    }
+  ]
+}
